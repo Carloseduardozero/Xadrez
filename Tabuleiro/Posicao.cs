@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tabuleiro
+namespace tabuleiro
 {
      class Posicao
     {
@@ -22,6 +22,8 @@ namespace Tabuleiro
             return linha
                 + " , "
                 + coluna;
+
+
         }
 
 
