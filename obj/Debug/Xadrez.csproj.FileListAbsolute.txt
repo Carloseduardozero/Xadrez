@@ -1,0 +1,8 @@
+D:\trabalho\projeto\Xadrez\bin\Debug\Xadrez.exe.config
+D:\trabalho\projeto\Xadrez\bin\Debug\Xadrez.exe
+D:\trabalho\projeto\Xadrez\bin\Debug\Xadrez.pdb
+D:\trabalho\projeto\Xadrez\obj\Debug\Xadrez.csproj.AssemblyReference.cache
+D:\trabalho\projeto\Xadrez\obj\Debug\Xadrez.csproj.SuggestedBindingRedirects.cache
+D:\trabalho\projeto\Xadrez\obj\Debug\Xadrez.csproj.CoreCompileInputs.cache
+D:\trabalho\projeto\Xadrez\obj\Debug\Xadrez.exe
+D:\trabalho\projeto\Xadrez\obj\Debug\Xadrez.pdb
