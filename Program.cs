@@ -22,10 +22,7 @@ namespace Xadrez
                 {
                     try {
                         Console.Clear();
-                        Tela.imprimirTabuleiro(partida.tab);
-                        Console.WriteLine();
-                        Console.WriteLine("Turno: " + partida.turno);
-                        Console.WriteLine("Aguardando Jogador: " + partida.jogadorAtual);
+                        Tela.imprimirPartida(partida);
 
 
                         Console.WriteLine();
